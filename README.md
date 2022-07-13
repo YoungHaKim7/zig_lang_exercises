@@ -18,3 +18,29 @@ Each exercise is self-contained and self-explained. However, you're encouraged t
 - [https://ziglang.org/documentation/master/](https://ziglang.org/documentation/master/)
 
   Also, the Zig community is incredibly friendly and helpful!
+
+<br>
+
+# Zig tutorial part1
+
+[Zig Tutorial part 1 \_\_ Simon Clavet
+](https://youtu.be/G170lsf551Q)
+
+<br>
+
+<hr>
+
+<br>
+
+# GlobalYoung Youtube
+
+github - [Global Young \_\_ zig languages exerciese](https://github.com/YoungHaKim7/zig_lang_exercises)
+
+Zig Exercieses
+[series](https://youtube.com/playlist?list=PLcMveqN_07mbgfnYY9YIXo_Ls9FTSvDPx)
+
+- 1. hello zig, std, assignment
+
+[한글지그Zig강의\_001_hello world_std_assignment_Zig Programming Language tutorial](https://youtu.be/JdbEJaWXVMA)
+
+- 2. array
