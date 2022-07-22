@@ -44,3 +44,7 @@ Zig Exercieses
 [한글지그Zig강의\_001_hello world_std_assignment_Zig Programming Language tutorial](https://youtu.be/JdbEJaWXVMA)
 
 - 2. array
+
+# zig Exerciese series
+
+[한글지그Zig강의 \_\_ 모아 보기 Series Zig Language tutorial](https://youtube.com/playlist?list=PLcMveqN_07mbgfnYY9YIXo_Ls9FTSvDPx)
