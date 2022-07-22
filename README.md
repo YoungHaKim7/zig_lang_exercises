@@ -45,6 +45,6 @@ Zig Exercieses
 
 - 2. array
 
-# zig Exerciese series
+# Zig Language Exercises series
 
 [한글지그Zig강의 \_\_ 모아 보기 Series Zig Language tutorial](https://youtube.com/playlist?list=PLcMveqN_07mbgfnYY9YIXo_Ls9FTSvDPx)
