@@ -1,3 +1,5 @@
+// https://ziglang.org/documentation/0.9.1/#Error-Union-Type
+
 const std = @import("std");
 const print = std.debug.print;
 
