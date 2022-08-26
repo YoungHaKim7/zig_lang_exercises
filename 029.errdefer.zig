@@ -18,7 +18,7 @@ fn makeNumber() MyErr!u32 {
 
     // Please make the "failed" message print ONLY if the makeNumber()
     // function exits with an error:
-    print("failed!\n", .{});
+    errdefer print("failed!\n", .{});
 
     var num = try getNumber(); // <-- This could fail!
 
