@@ -4,12 +4,13 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "gdb",
+            "type": "lldb",
             "request": "launch",
-            "name": "GDB",
+            "name": "Debug executeable",
             "program": "${workspaceFolder}/main.exe",
             "cwd": "${workspaceFolder}",
-            "preLaunchTask": "build"
+            "preLaunchTask": "build",
+            "stopOnEntry": true
         },
     ]
 }
