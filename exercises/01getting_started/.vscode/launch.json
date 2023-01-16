@@ -4,13 +4,12 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "by-gdb",
+            "type": "gdb",
             "request": "launch",
-            "name": "Launch(gdb)",
+            "name": "GDB",
             "program": "${workspaceFolder}/main.exe",
             "cwd": "${workspaceFolder}",
-            // "miDebuggerPath": "C:\\ProgramData\\chocolatey\\bin\\gdb.exe",
             "preLaunchTask": "build"
-        }
+        },
     ]
 }
