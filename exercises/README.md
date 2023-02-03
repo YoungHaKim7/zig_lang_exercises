@@ -1,3 +1,8 @@
+# zig code example
+
+https://github.com/SpexGuy
+
+
 # ziglearn
 
 https://ziglearn.org/
