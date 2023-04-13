@@ -73,6 +73,8 @@ echo $null >> tasks.json
 
 ```
 
+https://code.visualstudio.com/docs/cpp/launch-json-reference
+
 ## tasks.json
 
 ```
