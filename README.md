@@ -6,6 +6,8 @@ https://www.trackawesomelist.com/catdevnull/awesome-zig/readme/
 
 [https://github.com/ratfactor/ziglings](https://github.com/ratfactor/ziglings)
 
+[답을 다 푼분이 있다. 역시 괴물이 많다. ㅋㅋㅋ ](https://git.adamu.jp/adam/ziglings)
+
 - Welcome to Ziglings! This project contains a series of tiny broken programs. By fixing them, you'll learn how to read and write Zig code.
 
 Those tiny broken programs need your help! (You'll also save the planet from evil aliens and help some friendly elephants stick together, which is very sweet of you.)
@@ -57,4 +59,4 @@ Zig Exercieses
 
 <hr>
 
-[답을 다 푼분이 있다. 역시 괴물이 많다. ㅋㅋㅋ ](https://git.adamu.jp/adam/ziglings)
+
