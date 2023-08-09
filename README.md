@@ -1,3 +1,9 @@
+# FLTK Zig: Basics(GUI)
+
+https://youtu.be/D2ijlrDStdM
+
+<hr>
+
 # Awesome Zig
 
 https://www.trackawesomelist.com/catdevnull/awesome-zig/readme/
