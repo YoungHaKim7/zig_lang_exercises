@@ -1,3 +1,13 @@
+# Zig
+
+https://ziglang.org/
+
+# Zig LSP (zls)
+
+https://github.com/zigtools/zls
+
+<hr>
+
 # FLTK Zig: Basics(GUI)
 
 https://youtu.be/D2ijlrDStdM
