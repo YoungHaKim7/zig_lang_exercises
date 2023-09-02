@@ -8,11 +8,19 @@ https://github.com/zigtools/zls
 
 <hr>
 
+# Learning Zig basics, multi threading and sockets in 30 minutes! | CallousCoder
+
+https://youtu.be/E-MPhgtC_2s?si=vvFLBWZrCRDBcmhS
+
+
+
 # FLTK Zig: Basics(GUI)
 
 https://youtu.be/D2ijlrDStdM
 
+
 <hr>
+
 
 # Awesome Zig
 
