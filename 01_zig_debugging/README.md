@@ -38,6 +38,10 @@ echo $null >> tasks.json
 
 ```
 
+<hr>
+
+# macOS
+
 ## lanuch.json
 
 ```
@@ -78,3 +82,36 @@ echo $null >> tasks.json
 }
 
 ```
+
+<hr>
+
+# WindowsOS
+
+## lanuch.json (WindowsOS)
+
+- lldb는 안되는듯 ㅠㅠ c++ extensions깔고 해야함.
+
+```
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "cppdebug",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/zig-out/bin/${workspaceFolderBasename}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "preLaunchTask": "build"
+        }
+    ]
+}
+
+```
+
+<hr>
+
+<br>
