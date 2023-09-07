@@ -3,9 +3,8 @@
 1. VSCODE Extension 
 
 ```
-C/C++ v1.13.9
-Microsoft
-C/C++ IntelliSense, debugging, and code browsing.
+CodeLLDB
+
 
 ```
 
@@ -36,19 +35,17 @@ echo $null >> tasks.json
 ## lanuch.json
 
 ```
+
 {
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "cppdebug",
-            "type": "cppvsdbg",
+            "type": "lldb",
             "request": "launch",
-            "program": "${workspaceFolder}/zig-out/bin/02_zig_debugging.exe",
+            "name": "Launch",
+            "program": "${workspaceFolder}/zig-out/bin/${workspaceFolderBasename}",
             "args": [],
-            "stopAtEntry": false,
-            "cwd": "${workspaceFolder}",
-            "environment": [],
-            "preLaunchTask": "build"
+            "cwd": "${workspaceFolder}"
         }
     ]
 }
