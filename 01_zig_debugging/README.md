@@ -1,3 +1,9 @@
+# zig code (예문 출처)
+
+https://zig-by-example.com/for
+
+<hr>
+
 # VScode ```lanuch.json``` & ```tasks.json``` 규칙
 
 https://code.visualstudio.com/docs/editor/variables-reference
