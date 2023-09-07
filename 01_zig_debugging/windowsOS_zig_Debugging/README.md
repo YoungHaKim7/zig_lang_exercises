@@ -35,6 +35,8 @@ echo $null >> tasks.json
 
 ## lanuch.json (WindowsOS)
 
+- lldb는 안되는듯 ㅠㅠ c++ extensions깔고 해야함.
+
 ```
 
 {
