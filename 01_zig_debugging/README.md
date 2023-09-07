@@ -1,3 +1,9 @@
+# VScode ```lanuch.json``` & ```tasks.json``` 규칙
+
+https://code.visualstudio.com/docs/editor/variables-reference
+
+<hr>
+
 # Zig Debug
 
 1. VSCODE Extension 
