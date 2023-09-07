@@ -1,0 +1,32 @@
+// {
+//     "version": "0.2.0",
+//     "configurations": [
+//         {
+//             "type": "lldb",
+//             "request": "launch",
+//             "name": "Launch",
+//             "program": "${workspaceFolder}/zig-out/bin/zig_debugging_win.exe",
+//             "args": [],
+//             "cwd": "${workspaceFolder}",
+//             "stopAtEntry": false,
+//             "environment": [],
+//             "preLaunchTask": "build"
+//         }
+//     ]
+// }
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "cppdebug",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/zig-out/bin/${workspaceFolderBasename}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "preLaunchTask": "build"
+        }
+    ]
+}
