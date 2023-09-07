@@ -33,9 +33,10 @@ echo $null >> tasks.json
 
 ```
 
-## lanuch.json
+## lanuch.json (WindowsOS)
 
 ```
+
 {
     "version": "0.2.0",
     "configurations": [
@@ -43,7 +44,7 @@ echo $null >> tasks.json
             "name": "cppdebug",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/zig-out/bin/02_zig_debugging.exe",
+            "program": "${workspaceFolder}/zig-out/bin/${workspaceFolderBasename}",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
