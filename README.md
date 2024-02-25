@@ -8,6 +8,33 @@ https://github.com/zigtools/zls
 
 <hr>
 
+# zig(.gitignore)
+- https://github.com/ziglang/zig/blob/master/.gitignore
+```gitignore
+# https://github.com/ziglang/zig/blob/master/.gitignore
+
+.DS_Store
+
+# This file is for zig-specific build artifacts.
+# If you have OS-specific or editor-specific files to ignore,
+# such as *.swp or .DS_Store, put those in your global
+# ~/.gitignore and put this in your ~/.gitconfig:
+#
+# [core]
+#     excludesfile = ~/.gitignore
+#
+# Cheers!
+# -andrewrk
+
+zig-cache/
+zig-out/
+/release/
+/debug/
+/build/
+/build-*/
+/docgen_tmp/
+```
+
 # Learning Zig basics, multi threading and sockets in 30 minutes! | CallousCoder
 
 https://youtu.be/E-MPhgtC_2s?si=vvFLBWZrCRDBcmhS
