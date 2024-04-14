@@ -3,3 +3,6 @@
 
 # Zig(socket example)
 - https://github.com/BrookJeynes/zig-socket-example/
+
+- Socket programming in | Zig Brook Jeynes
+  - https://youtu.be/V7Jql_SZ7kY?si=gG1k0sFmP3e7Cn9E
