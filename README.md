@@ -83,6 +83,33 @@ Each exercise is self-contained and self-explained. However, you're encouraged t
 [Zig Tutorial part 1 \_\_ Simon Clavet
 ](https://youtu.be/G170lsf551Q)
 
+- https://www.openmymind.net/learning_zig/
+
+- Zig 프로그래밍 언어 배우기 (openmymind.net)
+https://news.hada.io/topic?id=11006&utm_source=discord&utm_medium=bot&utm_campaign=1480
+Zig 설치하기
+언어 개요
+스타일 가이드
+포인터
+스택 메모리
+힙 메모리 및 할당자
+제네릭
+Zig로 코딩하기
+
+- Zig 프로그래밍 언어 배우기 (openmymind.net)
+https://news.hada.io/topic?id=10938
+Zig 설치하기
+언어 개요
+스타일 가이드
+포인터
+스택 메모리
+힙 메모리 및 할당자
+제네릭
+Zig로 코딩하기
+
+
+
+
 <br>
 
 <hr>
