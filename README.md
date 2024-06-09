@@ -6,6 +6,9 @@ https://ziglang.org/
 
 https://github.com/zigtools/zls
 
+# Zig 문서 검색
+- https://ziglang.org/learn/
+
 <hr>
 
 # zig(.gitignore)
@@ -26,6 +29,7 @@ https://github.com/zigtools/zls
 # Cheers!
 # -andrewrk
 
+.zig-cache/
 zig-cache/
 zig-out/
 /release/
