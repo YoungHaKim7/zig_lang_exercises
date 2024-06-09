@@ -30,13 +30,16 @@ https://github.com/zigtools/zls
 # -andrewrk
 
 .zig-cache/
-zig-cache/
 zig-out/
 /release/
 /debug/
 /build/
 /build-*/
 /docgen_tmp/
+
+# Although this was renamed to .zig-cache, let's leave it here for a few
+# releases to make it less annoying to work with multiple branches.
+zig-cache/
 ```
 
 # Learning Zig basics, multi threading and sockets in 30 minutes! | CallousCoder
