@@ -1,3 +1,8 @@
+# 지그 (Zig)가 새로운 C가 될 수 있을까?(지그 소개 영상) | 노마드 코더 Nomad Coders
+- https://youtu.be/KVPjN_8DkhY?si=phyo05RmBXqqK383
+
+<hr>
+
 # Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022 
 
 https://youtu.be/YXrb-DqsBNU?si=FstMvIkrGkHMktYO
