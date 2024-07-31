@@ -1,3 +1,8 @@
+# zig영상 모아보기(내가 공부하려고 만듬)
+- https://youtube.com/playlist?list=PLcMveqN_07mbgfnYY9YIXo_Ls9FTSvDPx&si=5BwBs3uxkXolyOzb
+
+<hr>
+
 # Zig
 
 https://ziglang.org/
