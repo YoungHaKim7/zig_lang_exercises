@@ -12,6 +12,9 @@
 
 https://youtu.be/YXrb-DqsBNU?si=FstMvIkrGkHMktYO
 
+- 영상모아보기
+  - https://youtube.com/playlist?list=PLSM9kl8LlQw90M7z9J3gjKxfR4oR7JJbg&si=_D0vrxH94cVcs4vg
+
 <hr>
 
 # Zig-by-example
