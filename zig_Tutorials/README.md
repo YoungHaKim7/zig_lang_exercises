@@ -3,6 +3,11 @@
 
 <hr>
 
+# Zig Course | Ep1 | Introduction
+- https://youtu.be/muH6v7rpXaE?si=2io4IJXHobtc8vLX
+
+<hr>
+
 # Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022 
 
 https://youtu.be/YXrb-DqsBNU?si=FstMvIkrGkHMktYO
