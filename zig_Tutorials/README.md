@@ -41,3 +41,8 @@ https://www.openmymind.net/learning_zig/
 - Zig로 코딩하기
 
 https://news.hada.io/topic?id=11006&utm_source=discord&utm_medium=bot&utm_campaign=1480
+
+<hr>
+
+# Zig Modules 사용법
+- https://zig.guide/0.11/build-system/modules/
