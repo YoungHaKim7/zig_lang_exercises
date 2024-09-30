@@ -3,7 +3,7 @@
 
 <hr>
 
-# Zig Course | Ep1 | Introduction
+# Zig Course | Ep1 | Introduction | Code Guild
 - https://youtu.be/muH6v7rpXaE?si=2io4IJXHobtc8vLX
 
 - 영상모아보기
