@@ -20,3 +20,11 @@ referenced by:
 5679⏎
 
 ```
+
+- `zig run a003_var_must_be_initialized.zig`
+
+```bash
+a003_var_must_be_initialized.zig:4:15: error: expected '=', found ';'
+    var x: i32;
+              ^
+```
