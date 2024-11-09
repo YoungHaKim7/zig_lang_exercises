@@ -132,7 +132,7 @@ Zig로 코딩하기
 
 # GlobalYoung Youtube
 
-github - [Global Young \_\_ zig languages exerciese](https://github.com/YoungHaKim7/zig_lang_exercises)
+[(zig_lings)Global Young \_\_ zig languages exerciese](./zig_lings_example_QandA)
 
 Zig Exercieses
 [series](https://youtube.com/playlist?list=PLcMveqN_07mbgfnYY9YIXo_Ls9FTSvDPx)
