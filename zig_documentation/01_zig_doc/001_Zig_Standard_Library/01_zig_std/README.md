@@ -51,3 +51,15 @@ true
 0xfe
 0x9f
 ``````
+
+- `zig run a004_multiline_string_literals.zig`
+
+```bash
+#include <stdio.h>
+
+int main(int argc, char **argv) {
+    printf("hello world\n");
+    return 0;
+}⏎
+
+```
