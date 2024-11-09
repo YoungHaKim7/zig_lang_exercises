@@ -32,4 +32,22 @@ value: error.ArgNotFound
 error union 2
 type: anyerror!i32
 value: 1234
+
 ```
+
+- `zig run a003_string_literals.zig`
+
+```bash
+*const [5:0]u8
+5
+e
+0
+true
+128169
+128175
+⚡
+true
+true
+0xfe
+0x9f
+``````
