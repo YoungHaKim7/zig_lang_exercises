@@ -38,3 +38,20 @@ $ zig test a001_testing_introduction.zig
 All 2 tests passed.
 
 ```
+
+- `zig test a002_testing_failure.zig`
+
+```bash
+$ zig test a002_testing_failure.zig
+
+1/2 a002_testing_failure.test.expect this to fail...FAIL (TestUnexpectedResult)
+/zig/lib/std/testing.zig:540:14: 0x102fe07a3 in expect (test)
+    if (!ok) return error.TestUnexpectedResult;
+             ^
+/a002_testing_failure.zig:4:5: 0x102fe091b in test.expect this to fail (test)
+    try std.testing.expect(false);
+    ^
+1 passed; 0 skipped; 1 failed.
+error: the following test command failed with exit code 1:
+/.cache/zig/o/c4c87e983ac57dce4c306c5dff16abe2/test
+```
