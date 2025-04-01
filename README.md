@@ -27,6 +27,9 @@ https://github.com/zigtools/zls
 # Zig 문서 검색
 - https://ziglang.org/learn/
 
+# Zig Tutorial
+- https://zig.guide/
+
 <hr>
 
 # zig(.gitignore)
