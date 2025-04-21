@@ -3,7 +3,7 @@
 
 <hr>
 
-**[Zig의 comptime이 하지 않는 일들](<https://news.hada.io/topic?id=20446&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+# **[Zig의 comptime이 하지 않는 일들](<https://news.hada.io/topic?id=20446&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
 - Zig의 **comptime** 기능은 매우 **강력한 컴파일 타임 평가 기능**을 제공하지만 **의도적으로 제한적**임  
 - 컴파일 타임 코드 실행 시 **호스트 정보에 접근 불가능**, 크로스 컴파일에 적합한 설계임  
 - **동적 코드 생성, DSL, RTTI, I/O 등은 지원하지 않음**, 대신 명시적인 타입 기반 코드 특수화 사용  
