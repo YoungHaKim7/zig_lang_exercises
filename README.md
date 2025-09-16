@@ -6,6 +6,7 @@
 
 # link
 - [zig-snippets정리중..](https://github.com/YoungHaKim7/zig-snippets)
+- [zig playground](https://zig-play.dev/)
 
 <hr />
 
