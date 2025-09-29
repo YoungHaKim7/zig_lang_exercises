@@ -17,6 +17,9 @@
 - 영상모아보기
   - https://youtube.com/playlist?list=PLSM9kl8LlQw90M7z9J3gjKxfR4oR7JJbg&si=_D0vrxH94cVcs4vg
 
+# (영상모아보기)Beginner's Guide to Zig | Coding with Tom
+- https://youtube.com/playlist?list=PL0-BgRHrP_sMpEvPImEbLrLKvx2Swci_6&si=Mo3act63eA4xKsYD
+
 <hr>
 
 # Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022 
