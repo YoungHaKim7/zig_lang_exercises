@@ -10,6 +10,15 @@
 
 <hr />
 
+# zig에러 모음
+- wsl1에서 에러나는 이유
+  - 0.13에서 0.14로 넘어가면서 kernel최신 시스템 콜을 써서 wsl1에서는zig 최신 버젼을 사용할 수 없다. ㅠㅠ
+    - Zig 0.14.0 fails to compile hello world on WSL 1 #23153
+    - https://github.com/ziglang/zig/issues/23153
+      - In Zig 0.13.0, we formally required kernel version 4.19+, but didn't actually make use of any syscalls from that version.
+      - In Zig 0.14.0, we started actually using newer `syscalls`, e.g. `statx`. It's quite possible that's what you're hitting here.
+      - It is very unlikely that we'll make any effort to support `WSL 1` since it's emulating `a very old kernel version`, and it isn't even a 'real' Linux kernel underneath. Is there a reason you aren't just using WSL 2?
+
 # zig영상 모아보기(내가 공부하려고 만듬)
 - https://youtube.com/playlist?list=PLcMveqN_07mbgfnYY9YIXo_Ls9FTSvDPx&si=5BwBs3uxkXolyOzb
 
