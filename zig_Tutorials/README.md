@@ -11,6 +11,9 @@
 
 <hr />
 
+# An open, technical and introductory book for the Zig programming language 📚📖 
+- https://github.com/pedropark99/zig-book
+
 # Zig Course | Ep1 | Introduction | Code Guild
 - https://youtu.be/muH6v7rpXaE?si=2io4IJXHobtc8vLX
 
