@@ -12,9 +12,9 @@ https://www.reddit.com/r/Zig/comments/iu37eg/how_is_managing_memory_in_zig_diffe
 
 <hr />
 
+# Primitive Types
 
 <table>
-        <caption>Primitive Types</caption>
         <thead>
             <tr>
             <th scope="col">Type</th>
