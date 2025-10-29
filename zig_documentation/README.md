@@ -13,6 +13,7 @@ https://www.reddit.com/r/Zig/comments/iu37eg/how_is_managing_memory_in_zig_diffe
 <hr />
 
 # Primitive Types
+- https://ziglang.org/documentation/master/#Primitive-Types
 
 <table>
         <thead>
