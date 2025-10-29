@@ -192,12 +192,12 @@ https://www.reddit.com/r/Zig/comments/iu37eg/how_is_managing_memory_in_zig_diffe
         <tr>
             <th scope="row"><code><span class="tok-type">comptime_int</span></code></th>
           <td>(none)</td>
-          <td>Only allowed for <a href="#comptime">comptime</a>-known values. The type of integer literals.</td>
+          <td>Only allowed for <a href="https://ziglang.org/documentation/master/#comptime">comptime</a>-known values. The type of integer literals.</td>
         </tr>
         <tr>
             <th scope="row"><code><span class="tok-type">comptime_float</span></code></th>
           <td>(none)</td>
-          <td>Only allowed for <a href="#comptime">comptime</a>-known values. The type of float literals.</td>
+          <td>Only allowed for <a href="https://ziglang.org/documentation/master/#comptime">comptime</a>-known values. The type of float literals.</td>
         </tr>
         </tbody>
 </table>
