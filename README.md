@@ -10,6 +10,12 @@
 
 <hr />
 
+# zig release build
+
+```
+zig build -Doptimize=ReleaseSafe
+```
+
 # zig에러 모음
 - wsl1에서 에러나는 이유
   - 0.13에서 0.14로 넘어가면서 kernel최신 `syscalls`을 써서 wsl1에서는 zig 최신 버젼을 사용할 수 없다. ㅠㅠ
