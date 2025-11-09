@@ -11,6 +11,7 @@
 <hr />
 
 # zig release build
+- https://github.com/zigtools/zls
 
 ```
 zig build -Doptimize=ReleaseSafe
