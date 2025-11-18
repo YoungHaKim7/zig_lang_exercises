@@ -3,6 +3,12 @@
 
 <hr>
 
+# **[ZigBook - 오픈소스 Zig 학습서](<https://news.hada.io/topic?id=24412&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- **Zigbook**은 프로그래밍 언어 Zig를 배우며 **소프트웨어 사고방식 자체를 전환**하도록 설계된 학습 자료  
+- 총 **61개 장**으로 구성되며, **프로젝트 기반 학습**과 **AI 비의존적** 접근을 특징으로 함  
+- 단순한 문법 습득을 넘어 **Zig 철학과 개발 사고방식**을 익히는 데 초점을 둠  
+- **인터랙티브 터미…
+
 # **[Zig의 comptime이 하지 않는 일들](<https://news.hada.io/topic?id=20446&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
 - Zig의 **comptime** 기능은 매우 **강력한 컴파일 타임 평가 기능**을 제공하지만 **의도적으로 제한적**임  
 - 컴파일 타임 코드 실행 시 **호스트 정보에 접근 불가능**, 크로스 컴파일에 적합한 설계임  
