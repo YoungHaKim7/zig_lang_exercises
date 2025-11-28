@@ -10,6 +10,9 @@
 
 <hr />
 
+# (251128)zig -> github에서 codeberg로 이사
+- https://codeberg.org/ziglang/zig
+
 # zig release build
 - https://github.com/zigtools/zls
 
