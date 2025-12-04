@@ -10,6 +10,8 @@
 
 <hr />
 
+# zig최신 뉴스
+
 # (251128)zig -> github에서 codeberg로 이사
 - https://codeberg.org/ziglang/zig
 - # **[Zig, 메인 저장소를 GitHub에서 Codeberg로 이전](<https://news.hada.io/topic?id=24676&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
@@ -17,6 +19,15 @@
 - GitHub의 **성능 저하와 버그**, 특히 **Actions의 불안정성과 방치**가 주요 원인  
 - GitHub의 **AI 중심 정책**과 **Copilot 기능 강제 노출**이 Zig의 **‘no LLM / no AI’ 정책**과 충돌  
 - **GitHub Sponsors**는 여전…
+
+# 251204) **[Zig의 비동기 프로그램에 대한 새로운 계획](<https://news.hada.io/topic?id=24809&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- **Zig 언어**가 기존 비동기 I/O 설계의 복잡성을 줄이기 위해 **새로운 `Io` 인터페이스 기반 모델**을 도입  
+  - 이 모델은 **동기·비동기 코드의 구분 없이 동일한 함수 구조**를 유지하며, `Io.Threaded`와 `Io.Evented` 두 구현을 제공  
+  - `Io.Threaded`는 기본적으로 **동기 실행**을, `Io.Evented`는 **이벤트 루…
+
+<hr />
+
+
 
 # zig release build
 - https://github.com/zigtools/zls
