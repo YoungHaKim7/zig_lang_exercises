@@ -17,6 +17,7 @@
 
 
 ## LSP Install(zig lang)zls젤 유명함
+- https://github.com/zigtools/zls
 
 ```bash
 # Add the openSUSE:Factory repository:
