@@ -13,6 +13,22 @@
 
 <hr />
 
+# zig(openSUSE OS) Install
+
+
+## LSP Install(zig lang)zls젤 유명함
+
+```bash
+# Add the openSUSE:Factory repository:
+sudo zypper addrepo https://download.opensuse.org/repositories/openSUSE:Factory/standard/openSUSE:Factory.repo
+
+# update
+sudo zypper refresh
+
+# install
+sudo zypper install zls
+```
+
 # zig최신 뉴스[|🔝|](#link)
 
 # (251128)zig -> github에서 codeberg로 이사[|🔝|](#link)
