@@ -30,6 +30,12 @@ sudo zypper refresh
 sudo zypper install zls
 ```
 
+## zig zls (LSP) install(claude)
+- https://github.com/4rgon4ut/cc-zig-lsp
+```bash
+claude plugin marketplace add 4rgon4ut/cc-zig-lsp && claude plugin install zig-lsp@cc-zig-lsp
+```
+
 # zig최신 뉴스[|🔝|](#link)
 
 # (251128)zig -> github에서 codeberg로 이사[|🔝|](#link)
