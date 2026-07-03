@@ -36,6 +36,25 @@ sudo zypper install zls
 claude plugin marketplace add 4rgon4ut/cc-zig-lsp && claude plugin install zig-lsp@cc-zig-lsp
 ```
 
+### `~.claude/settings.json`
+
+```bash
+  "enabledPlugins": {
+    "rust-analyzer-lsp@claude-plugins-official": true,
+    "clangd-lsp@claude-plugins-official": true,
+    "zig-lsp@cc-zig-lsp": true
+  },
+  "extraKnownMarketplaces": {
+    "cc-zig-lsp": {
+      "source": {
+        "source": "github",
+        "repo": "4rgon4ut/cc-zig-lsp"
+      }
+    }
+  },
+
+```
+
 # zig최신 뉴스[|🔝|](#link)
 
 # (251128)zig -> github에서 codeberg로 이사[|🔝|](#link)
